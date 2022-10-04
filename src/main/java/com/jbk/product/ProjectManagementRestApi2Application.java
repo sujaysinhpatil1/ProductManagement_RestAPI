@@ -10,6 +10,7 @@ public class ProjectManagementRestApi2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectManagementRestApi2Application.class, args);
+		System.out.println("dev1 changes");
 	}
 	
 	@Bean
